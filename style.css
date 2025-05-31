@@ -1,0 +1,154 @@
+ * {
+            margin: 5px;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+body{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #f13333 0%, #840101 100%);
+    margin: 0;rgb(197, 19, 19)
+    padding: 20px;
+}
+
+.personal-info {
+    background-color: #d37272;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    color: white;
+    
+}
+
+.personal-info{
+    margin-bottom: 10px;
+
+            background: rgba(161, 79, 79, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(201, 165, 165, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.personal-info:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 50px rgba(133, 26, 78, 0.15);
+        }
+
+        .part-1 {
+            background: rgba(68, 4, 4, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(51, 17, 17, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .Info-tag {
+            background: linear-gradient(135deg, #ea6690, #f9886c);
+            color: white;
+            padding: 12px 20px;
+            border-radius: 25px;
+            text-align: center;
+            font-weight: 500;
+            transition: transform 0.3s ease;
+        }
+        .bubble-1 {
+            background: rgba(68, 4, 4, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(51, 17, 17, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .bubble-1:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+        }
+        .part-2 {
+            background: rgba(68, 4, 4, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(51, 17, 17, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .part-2:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+        }
+        .part-3 {
+            background: rgba(68, 4, 4, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(51, 17, 17, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .part-3:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+        }
+
+        .part-4 {
+            background: rgba(68, 4, 4, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(51, 17, 17, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .part-4:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+        }
+
+        .part-5 {
+            background: rgba(68, 4, 4, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(51, 17, 17, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .part-5:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+        
+        }
+        .career-goals {background-color: #d37272;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    color: white;
+        }
+
+        .current-skills {
+            background-color: #ec6161;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            color: rgb(10, 4, 4);
+        }
+
+        .action-plan {
+            background-color: #f36969;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            color: rgb(0, 0, 0);
+        }
